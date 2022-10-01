@@ -33,7 +33,7 @@
               <div class="card-header">
                 <ul class="nav nav-tabs align-items-end card-header-tabs w-100">
                   <li class="nav-item">
-                    <a class="nav-link active" href=""><i class="fa fa-plus mr-2"></i>Update User</a>
+                    <a class="nav-link active" href=""><i class="fa fa-plus mr-2"></i>Update Users</a>
                   </li>
                     <li class="nav-item border-none">
                     <a class="nav-link" href="{{ route('allusers') }}"><i class="fa fa-list mr-2"></i>All Users</a>
